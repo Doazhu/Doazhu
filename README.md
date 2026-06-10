@@ -1,4 +1,4 @@
-#  Александр Ренёв
+#  Александр Ренёв   | Сейчас мало активности перешёл на gitlub
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Business+Analyst;Learning+Enthusiast;3+Years+Experience" alt="Typing SVG" />
