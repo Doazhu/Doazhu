@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="172" viewBox="0 0 390 172">
+  <title>Alexander Renyov</title>
+  <desc>Backend Developer. Personal site at doazhu.pro.</desc>
+  <defs>
+    <clipPath id="frame"><rect x="1" y="1" width="388" height="170" rx="12"/></clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="389" height="171" rx="13" fill="#131118" stroke="#3e354a"/>
+  <g clip-path="url(#frame)">
+    <g transform="translate(222 -1) scale(.52 .86)" fill="none" stroke="#8069c7" stroke-width="1.35">
+    <path opacity=".29" d="M0 -6 C64 8 66 -65 144 -51 S257 13 386 -39"/>
+    <path opacity=".29" d="M0 14 C64 28 66 -45 144 -31 S257 33 386 -19"/>
+    <path opacity=".29" d="M0 34 C64 48 66 -25 144 -11 S257 53 386 1"/>
+    <path opacity=".29" d="M0 54 C64 68 66 -5 144 9 S257 73 386 21"/>
+    <path opacity=".29" d="M0 74 C64 88 66 15 144 29 S257 93 386 41"/>
+    <path opacity=".29" d="M0 94 C64 108 66 35 144 49 S257 113 386 61"/>
+    <path opacity=".54" d="M0 114 C64 128 66 55 144 69 S257 133 386 81"/>
+    <path opacity=".29" d="M0 134 C64 148 66 75 144 89 S257 153 386 101"/>
+    <path opacity=".29" d="M0 154 C64 168 66 95 144 109 S257 173 386 121"/>
+    <path opacity=".29" d="M0 174 C64 188 66 115 144 129 S257 193 386 141"/>
+    <path opacity=".29" d="M0 194 C64 208 66 135 144 149 S257 213 386 161"/>
+    <path opacity=".29" d="M0 214 C64 228 66 155 144 169 S257 233 386 181"/>
+    <path opacity=".29" d="M0 234 C64 248 66 175 144 189 S257 253 386 201"/>
+    <path opacity=".29" d="M0 254 C64 268 66 195 144 209 S257 273 386 221"/>
+    </g>
+  </g>
+  <text x="21" y="64" fill="#f5f3f7" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.4">Alexander <tspan fill="#d9f75a">Renyov</tspan></text>
+  <text x="22" y="91" fill="#c2b9cf" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">Backend Developer</text>
+  <g transform="translate(21 112)">
+    <rect width="139" height="36" rx="7" fill="#d9f75a"/>
+    <text x="13" y="23" fill="#20270e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600">doazhu.pro</text>
+    <path d="M113 23l10-10m-8 0h8v8" fill="none" stroke="#20270e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
