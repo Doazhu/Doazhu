@@ -9,7 +9,6 @@
 
 I build APIs in Go and Python and work with PostgreSQL. I'm studying IT and business analysis at university.
 
-Most of my recent work is on GitLab.
 
 [Portfolio](https://doazhu.pro/work) · [Email](mailto:me@doazhu.ru) · [Telegram](https://t.me/Doazhu) · [VK](https://vk.com/doazhu)
 
