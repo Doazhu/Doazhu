@@ -1,12 +1,17 @@
-# Alexander Renyov
+<p>
+  <a href="https://doazhu.pro/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg">
+      <img width="778" src="./assets/profile.svg" alt="Alexander Renyov, backend developer. Visit doazhu.pro.">
+    </picture>
+  </a>
+</p>
 
-**Full-stack developer** · IT and business analysis student
-
-I got into web development three years ago. I build APIs, work with PostgreSQL, and use React for the frontend.
+I build APIs in Go and Python and work with PostgreSQL. I'm studying IT and business analysis at university.
 
 Most of my recent work is on GitLab.
 
-[Email](mailto:me@doazhu.ru) · [Telegram](https://t.me/Doazhu) · [VK](https://vk.com/doazhu)
+[Portfolio](https://doazhu.pro/work) · [Email](mailto:me@doazhu.ru) · [Telegram](https://t.me/Doazhu) · [VK](https://vk.com/doazhu)
 
 ## Stack
 
