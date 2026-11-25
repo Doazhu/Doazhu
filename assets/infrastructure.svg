@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="154" viewBox="0 0 390 154">
+  <title>Infrastructure</title>
+  <desc>PostgreSQL, Apache Kafka, Docker, Nginx</desc>
+  <style>
+    .surface { fill: #f7f9fc; stroke: #d0dae7; }
+    .rule { stroke: #dce4ef; }
+    .heading { fill: #192b43; font: 600 23px system-ui, sans-serif; }
+    .stack { fill: #435471; font: 14px ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .icon-bg { fill: #eaf0fb; }
+    .icon { stroke: #315997; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #151f2e; stroke: #344760; }
+      .rule { stroke: #2e3f56; }
+      .heading { fill: #ecf3ff; }
+      .stack { fill: #b8c7dd; }
+      .icon-bg { fill: #20324c; }
+      .icon { stroke: #a4c2f7; }
+    }
+  </style>
+  <rect class="surface" x=".5" y=".5" width="389" height="146" rx="11"/>
+  <text class="heading" x="21" y="42">Infrastructure</text>
+  <rect class="icon-bg" x="331" y="15" width="38" height="38" rx="8"/>
+  <g class="icon" transform="translate(338 22)" fill="none" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m12 3 9 5-9 5-9-5 9-5Zm-9 9 9 5 9-5m-18 4 9 5 9-5"/>
+  </g>
+  <path class="rule" d="M21 62.5h348"/>
+  <g class="stack">
+    <text x="21" y="88">PostgreSQL · Apache Kafka</text>
+    <text x="21" y="109">Docker · Nginx</text>
+  </g>
+</svg>
